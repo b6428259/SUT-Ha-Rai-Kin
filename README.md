@@ -10,7 +10,7 @@ To get started with this project, follow the steps below to install and run the 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/project-repository.git
+   git clone https://github.com/b6428259/SUT-Ha-Rai-Kin
    cd project-repository
    ```
 
